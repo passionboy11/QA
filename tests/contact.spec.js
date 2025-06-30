@@ -17,7 +17,7 @@ test.beforeEach(async ({page})=>
     await login.verifyValidLogin();
 })
 
-test.describe('Contact testcases', ()=>
+test.describe('Contact testscases', ()=>
 {
     test('Contact Add test', async({page,request})=>
     {
