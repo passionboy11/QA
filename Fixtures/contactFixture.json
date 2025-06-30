@@ -1,0 +1,15 @@
+{
+    "contact":
+    {
+        "firstName":"Suraj",
+        "lastName" : "Khadka",
+        "birthdate" : "1993-02-10",
+        "email" : "suraj@gmail.com",
+        "phone" : "9765153887",
+        "street1": "Maharajgunj",
+        "city" : "Kathmandu",
+        "stateProvince" : "Bagmati",
+        "postalCode" : "44600",
+        "country" : "Nepal"
+    }
+}
